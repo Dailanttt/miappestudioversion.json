@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "fecha": "2025-01-15",
+  "titulo": "🎉 Versión inicial",
+  "descripcion": "Bienvenido a StudyBuddy",
+  "novedades": [
+    "🚀 Lanzamiento de la app"
+  ],
+  "tipo": "menor",
+  "obligatoria": false
+}
